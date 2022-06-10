@@ -12,11 +12,6 @@ const About = () => {
         Version <span className="text-white">1.0.0</span>
       </p>
     </>
-    // <div className="flex flex-col justify-center items-center align-center">
-    //     <h2 className="text-xl font-bold">This is a Github Account Finder App</h2>
-    //     <p className="font-bold text-green-600">Version : 1.0.0</p>
-    //     <Link to="/" className="text-blue-600">Back to Home</Link>
-    // </div>
   );
 };
 
