@@ -11,6 +11,7 @@ const About = () => {
       <p className="text-lg text-gray-400">
         Version <span className="text-white">1.0.0</span>
       </p>
+      <Link to="/" className="mt-4 btn btn-outline">Go Back to Home</Link>
     </>
   );
 };
